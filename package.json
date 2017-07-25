@@ -1,0 +1,9 @@
+{
+  "name": "ssp-multiple-page-template",
+  "version": "1.0.0",
+  "description": "Ssp Multiple Page Template",
+  "scripts": {
+    "start": "ssp start",
+    "build": "ssp build"
+  }
+}
